@@ -1,0 +1,34 @@
+{
+  "name": "akien-react-utils",
+  "version": "1.0.0",
+  "description": "This repository is a set of hooks, components and utils very useful for React projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alienpr84/akien-react-utils.git"
+  },
+  "keywords": [
+    "react",
+    "utils",
+    "hooks",
+    "components",
+    "tools",
+    "library"
+  ],
+  "author": "Alien Padilla Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alienpr84/akien-react-utils/issues"
+  },
+  "homepage": "https://github.com/alienpr84/akien-react-utils#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.5.4"
+  }
+}
