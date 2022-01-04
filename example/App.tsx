@@ -1,5 +1,8 @@
+import useTitle from '../dist/useTitle';
+
 function App() {
-	return (<div>Hello app</div>)
+	useTitle('arletys');
+	return <div>Hello app</div>;
 }
 
 export default App;
