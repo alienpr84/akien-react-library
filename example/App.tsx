@@ -1,7 +1,7 @@
-import useTitle from '../dist/useTitle';
+import useViewportResize from '../dist/hooks/useViewportResize';
 
 function App() {
-	useTitle('arletys');
+	console.log(useViewportResize())
 	return <div>Hello app</div>;
 }
 
