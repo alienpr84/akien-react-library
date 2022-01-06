@@ -1,5 +1,5 @@
 {
-  "name": "akien-react-utils",
+  "name": "akien-react-library",
   "version": "1.0.0",
   "description": "This repository is a set of hooks, components and utils very useful for React projects.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alienpr84/akien-react-utils.git"
+    "url": "git+https://github.com/alienpr84/akien-react-library.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "Alien Padilla Rodriguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alienpr84/akien-react-utils/issues"
+    "url": "https://github.com/alienpr84/akien-react-library/issues"
   },
-  "homepage": "https://github.com/alienpr84/akien-react-utils#readme",
+  "homepage": "https://github.com/alienpr84/akien-react-library#readme",
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/plugin-proposal-object-rest-spread": "^7.16.7",
