@@ -5,7 +5,7 @@
 		"jsx": "react-jsx",
 		"module": "ESNext",
 		"moduleResolution": "node",
-		"baseUrl": "./",
+		"baseUrl": "./src",
 		"resolveJsonModule": true,
 		"allowJs": true,
 		"declaration": true,

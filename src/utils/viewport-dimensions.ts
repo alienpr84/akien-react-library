@@ -1,4 +1,4 @@
-import ViewportDimensionsType from "src/types/ViewportDimensions.type";
+import ViewportDimensionsType from "../types/ViewportDimensions.type";
 
 function viewportDimensions(): ViewportDimensionsType {
 	let height = 0;

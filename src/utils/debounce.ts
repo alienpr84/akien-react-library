@@ -1,4 +1,4 @@
-import { SetTimeoutType } from "src/types";
+import { SetTimeoutType } from "../types";
 
 function debounce(fn: () => void, ms: number, ...args: []): () => void {
 	let timeoutId: SetTimeoutType = null;

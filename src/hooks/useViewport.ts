@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import windowDimensions from 'src/utils/viewport-dimensions';
+import windowDimensions from '../utils/viewport-dimensions';
 
 type ViewportType = {
 	height: number;

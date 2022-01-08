@@ -1,1 +1,1 @@
-export type { default as SetTimeoutType } from 'src/types/SetTimeout.type';
+export type { default as SetTimeoutType } from './SetTimeout.type';

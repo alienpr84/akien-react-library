@@ -1,1 +1,1 @@
-export { default as useViewport} from 'src/hooks/useViewport';
+export { default as useViewport} from './useViewport';
